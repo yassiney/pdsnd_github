@@ -9,14 +9,14 @@ days_of_week = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturda
 
 
 def display_data(df):
-    """ Display 5 lines of data  5 rows of data as much as the user wants"""
+    """ Display 7 lines of data  7 rows of data as much as the user wants"""
 
-    view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n').lower()
+    view_data = input('\nWould you like to view 7 rows of individual trip data? Enter yes or no\n').lower()
     start_loc = 0
     while view_data == 'yes':
-        if start_loc + 5 <= len(df):
-            print(df.iloc[start_loc:start_loc+5])
-            start_loc += 5
+        if start_loc + 7 <= len(df):
+            print(df.iloc[start_loc:start_loc+7])
+            start_loc += 7
             view_data = input("Do you wish to continue? Enter yes or no: ").lower()
         else:
             # in case of out of range
