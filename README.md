@@ -33,4 +33,4 @@ This program was written in Python using:
 * [Pandas documentation](https://pandas.pydata.org/docs/)
 * [Numpy documentation](https://numpy.org/doc/)
 * [Python documentation](https://docs.python.org/3/)
-
+* [How to install Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
