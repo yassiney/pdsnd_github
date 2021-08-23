@@ -24,7 +24,7 @@ You will also write a script that takes in raw input to create an interactive ex
 	* new_york_city.csv
 	* washington.csv
 	
-###Requirements
+### Requirements
 This program was written in Python using:
 * Python 3.8.5	
 * Conda 4.9.2
