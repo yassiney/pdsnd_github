@@ -23,6 +23,7 @@ You will also write a script that takes in raw input to create an interactive ex
 	* chicago.csv
 	* new_york_city.csv
 	* washington.csv
+	
 ###Requirements
 This program was written in Python using:
 * Python 3.8.5	
