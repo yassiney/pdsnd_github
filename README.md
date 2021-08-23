@@ -12,6 +12,7 @@ in the United:
 1. _States—Chicago_. 
 2. _New York City_. 
 3. _Washington_. 
+
 You will write code to import the data and answer interesting questions about it by computing descriptive statistics. 
 You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
