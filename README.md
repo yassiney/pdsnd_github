@@ -26,5 +26,8 @@ This program was written in Python using:
 * Pandas 1.2.1
 * Numpy 1.19.2
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [Downloads Anaconda](https://www.anaconda.com/products/individual#Downloads)
+* [Pandas documentation](https://pandas.pydata.org/docs/)
+* [Numpy documentation](https://numpy.org/doc/)
+* [Python documentation](https://docs.python.org/3/)
 
